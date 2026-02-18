@@ -1,0 +1,6 @@
+{
+  "Name": "DevTest",
+  "ProjectType": "Process",
+  "Description": "This is for Azure CI/CD Pipline ",
+  "MainFile": "Main.xaml"
+}
